@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<head>
+  <title>Audited Content Locator</title>
+  <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css" />
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
+  <script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+  <link rel="stylesheet" href="/WikipediaMap/main.css" />
+</head>
+<body>
+  <div id = "holder">
+    <div id= "sidebar"><h1>Audited Content Locator</h1><br />
+    Each flag is the location of the subject of a <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_articles" target="_blank">Good</a> or <a href="https://en.wikipedia.org/wiki/Wikipedia:Featured_articles" target="_blank">Featured</a> article on either the English, German, French, or Spanish Wikipedia.<br />
+    <br />
+    Data can be downloaded from <a href="https://github.com/Guerillero/Where-in-the-World" target="_blank">Github</a> as either a geoJSON or a CSV.<br />
+    <br>
+    <b>Recomended Citation:</b><br>
+    <div id = "box">
+    Fish, T. (2015). <i>Geographic distribution of Good and Featured Articles on the English, Spanish, French, and German Wikipedias</i>. http://guerillero.net/WikipediaMap
+    </div>
+    <br>
+    <br>
+    Created by <a href="http://guerillero.net" target="_blank">Thomas Fish</a>. <br />
+    &copy; 2015 Some rights reserved. Code is available under the <a href="https://github.com/Guerillero/Where-in-the-World/blob/master/LICENSE" target="_blank">MIT License</a> on <a href="https://github.com/Guerillero/Where-in-the-World" target="_blank">Github</a>.
+    </div>
+    <div id="map"></div>
+    <script src="/WikipediaMap/main.js"></script>
+  </div>
+</body>
