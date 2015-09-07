@@ -1,6 +1,2462 @@
 { "type": "FeatureCollection",
 	"features": [
 		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-5.3, 6.85]},
+		"properties": {
+			"title": "Côte_d'Ivoire",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [2.46278, 48.7911]},
+		"properties": {
+			"title": "Créteil",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [7.01725, 43.5509]},
+		"properties": {
+			"title": "Festival_de_Cannes",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [106.819, -6.16806]},
+		"properties": {
+			"title": "Indonésie",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [31.2895, 31.0277]},
+		"properties": {
+			"title": "Isis",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [7.75235, 48.5734]},
+		"properties": {
+			"title": "Strasbourg",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-122.416, 37.7791]},
+		"properties": {
+			"title": "San_Francisco",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-100.0, 31.0]},
+		"properties": {
+			"title": "Texas",
+			"content_type": "Article_de_qualité",
+			"geo_type": "adm1st"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [10.183, 36.817]},
+		"properties": {
+			"title": "Tunisie",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [35.447, 30.325]},
+		"properties": {
+			"title": "Pétra",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-95.2075, 47.2397]},
+		"properties": {
+			"title": "Mississippi_(fleuve)",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [1.41861, 43.611]},
+		"properties": {
+			"title": "Canal_du_Midi",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [21.4311, 41.9956]},
+		"properties": {
+			"title": "Macédoine_(pays)",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [1.25, 45.85]},
+		"properties": {
+			"title": "Limoges",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [6.02194, 47.2431]},
+		"properties": {
+			"title": "Besançon",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [5.9118, 45.57]},
+		"properties": {
+			"title": "Chambéry",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [13.3803, 52.5192]},
+		"properties": {
+			"title": "Mur_de_Berlin",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [2.37583, 48.8336]},
+		"properties": {
+			"title": "Bibliothèque_nationale_de_France",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-104.985, 39.7392]},
+		"properties": {
+			"title": "Denver",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-71.0617, 42.3578]},
+		"properties": {
+			"title": "Boston",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [2.35203, 43.2131]},
+		"properties": {
+			"title": "Carcassonne",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-0.0992, 49.2464]},
+		"properties": {
+			"title": "Brucourt",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [0.981389, 45.6558]},
+		"properties": {
+			"title": "Châlus",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [8.155, 48.0956]},
+		"properties": {
+			"title": "Danube",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [4.58528, 48.7256]},
+		"properties": {
+			"title": "Vitry-le-François",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [3.95, 50.45]},
+		"properties": {
+			"title": "Mons",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [4.035, 46.9244]},
+		"properties": {
+			"title": "Bibracte",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [2.1619, 41.3954]},
+		"properties": {
+			"title": "Casa_Milà",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [5.91528, 45.6884]},
+		"properties": {
+			"title": "Aix-les-Bains",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [20.467, 44.8]},
+		"properties": {
+			"title": "Belgrade",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-73.9858, 40.7484]},
+		"properties": {
+			"title": "Empire_State_Building",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-122.479, 37.8197]},
+		"properties": {
+			"title": "Golden_Gate_Bridge",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [0.715783, 45.184]},
+		"properties": {
+			"title": "Périgueux",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-118.338, 34.1492]},
+		"properties": {
+			"title": "Warner_Bros.",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-79.68, 9.08]},
+		"properties": {
+			"title": "Canal_de_Panama",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-49.9458, 41.7319]},
+		"properties": {
+			"title": "Titanic",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [4.40295, 50.8859]},
+		"properties": {
+			"title": "Evere",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-157.95, 21.3667]},
+		"properties": {
+			"title": "Attaque_de_Pearl_Harbor",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-74.1381, 83.0797]},
+		"properties": {
+			"title": "Motoneige",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [2.2975, 48.7539]},
+		"properties": {
+			"title": "Antony",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [1.595, 50.5186]},
+		"properties": {
+			"title": "Le_Touquet-Paris-Plage",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [23.4333, 37.75]},
+		"properties": {
+			"title": "Égine",
+			"content_type": "Article_de_qualité",
+			"geo_type": "isle"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [23.85, 40.82]},
+		"properties": {
+			"title": "Amphipolis",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [5.41667, 44.9667]},
+		"properties": {
+			"title": "Massif_du_Vercors",
+			"content_type": "Article_de_qualité",
+			"geo_type": "mountain"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [43.1526, 36.3597]},
+		"properties": {
+			"title": "Ninive",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [31.783, 54.767]},
+		"properties": {
+			"title": "Massacre_de_Katyń",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [2.5167, 49.0]},
+		"properties": {
+			"title": "Roissy-en-France",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-75.1633, 39.9531]},
+		"properties": {
+			"title": "Philadelphie",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [25.4667, 37.0833]},
+		"properties": {
+			"title": "Naxos",
+			"content_type": "Article_de_qualité",
+			"geo_type": "isle"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [3.50139, 44.5194]},
+		"properties": {
+			"title": "Mende_(Lozère)",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [6.86972, 45.9231]},
+		"properties": {
+			"title": "Chamonix-Mont-Blanc",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [2.46516, 49.1932]},
+		"properties": {
+			"title": "Chantilly",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [42.2, 33.6]},
+		"properties": {
+			"title": "Umbriel_(lune)",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [51.308, 35.683]},
+		"properties": {
+			"title": "Téhéran",
+			"content_type": "Article_de_qualité",
+			"geo_type": "airport"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-76.6149, 39.2865]},
+		"properties": {
+			"title": "Baltimore",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-85.7603, 38.2542]},
+		"properties": {
+			"title": "Louisville_(Kentucky)",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-73.9484, 40.809]},
+		"properties": {
+			"title": "Harlem",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-2.28583, 48.0008]},
+		"properties": {
+			"title": "Val_sans_retour",
+			"content_type": "Article_de_qualité",
+			"geo_type": "forest"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-0.45944, 49.1186]},
+		"properties": {
+			"title": "Opération_Epsom",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-0.076111, 47.6997]},
+		"properties": {
+			"title": "La_Flèche",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-73.9667, 40.7833]},
+		"properties": {
+			"title": "Central_Park",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [46.0466, 30.9556]},
+		"properties": {
+			"title": "Ur_(Mésopotamie)",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-7.61111, 33.5869]},
+		"properties": {
+			"title": "Casablanca_(film)",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [0.5, 49.6667]},
+		"properties": {
+			"title": "Pays_de_Caux",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [52.8914, 29.9344]},
+		"properties": {
+			"title": "Persépolis",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [10.7522, 59.9139]},
+		"properties": {
+			"title": "Jeux_olympiques_d'hiver_de_1952",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-114.056, 51.045]},
+		"properties": {
+			"title": "Jeux_olympiques_d'hiver_de_1988",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [138.195, 36.65]},
+		"properties": {
+			"title": "Jeux_olympiques_d'hiver_de_1998",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-73.9784, 40.7586]},
+		"properties": {
+			"title": "Rockefeller_Center",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-13.0, 50.17]},
+		"properties": {
+			"title": "Gollum",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-1.03, 45.62]},
+		"properties": {
+			"title": "Royan",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [2.5525, 50.1306]},
+		"properties": {
+			"title": "Authie_(fleuve)",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [5.27889, 44.1744]},
+		"properties": {
+			"title": "Mont_Ventoux",
+			"content_type": "Article_de_qualité",
+			"geo_type": "mountain"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [17.1856, 44.7758]},
+		"properties": {
+			"title": "Banja_Luka",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-119.5, 37.75]},
+		"properties": {
+			"title": "Parc_national_de_Yosemite",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-112.17, 37.6389]},
+		"properties": {
+			"title": "Parc_national_de_Bryce_Canyon",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [7.45417, 48.2594]},
+		"properties": {
+			"title": "Sélestat",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-118.292, 36.5786]},
+		"properties": {
+			"title": "Géographie_de_la_Californie",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [2.37732, 48.8914]},
+		"properties": {
+			"title": "Ligne_7_du_métro_de_Paris",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [2.3561, 48.8655]},
+		"properties": {
+			"title": "Ligne_11_du_métro_de_Paris",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [2.36594, 48.9068]},
+		"properties": {
+			"title": "Ligne_12_du_métro_de_Paris",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [6.06619, 50.4039]},
+		"properties": {
+			"title": "Massacre_de_Baugnez",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-67.2892, -55.98]},
+		"properties": {
+			"title": "Cap_Horn",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-110.8, 43.7333]},
+		"properties": {
+			"title": "Parc_national_de_Grand_Teton",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [160.0, -9.41667]},
+		"properties": {
+			"title": "Bataille_de_Guadalcanal",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-8.33333, 71.0]},
+		"properties": {
+			"title": "Île_Jan_Mayen",
+			"content_type": "Article_de_qualité",
+			"geo_type": "isle"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [44.5091, 40.1593]},
+		"properties": {
+			"title": "Erevan",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [21.433, 42.0]},
+		"properties": {
+			"title": "Skopje",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [51.67, 32.67]},
+		"properties": {
+			"title": "Ispahan",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [2.36361, 43.2067]},
+		"properties": {
+			"title": "Cité_de_Carcassonne",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [2.30806, 48.9697]},
+		"properties": {
+			"title": "Enghien-les-Bains",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [1.3694, 50.065]},
+		"properties": {
+			"title": "Bresle",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [2.48528, 49.1939]},
+		"properties": {
+			"title": "Musée_Condé",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [5.3446, 60.3826]},
+		"properties": {
+			"title": "Bergen_(Norvège)",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [7.75497, 48.5601]},
+		"properties": {
+			"title": "Stade_de_la_Meinau",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [5.09344, 47.1293]},
+		"properties": {
+			"title": "Abbaye_de_Cîteaux",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [12.767, 41.967]},
+		"properties": {
+			"title": "Tivoli",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-113.05, 37.3]},
+		"properties": {
+			"title": "Parc_national_de_Zion",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-80.9333, 25.3167]},
+		"properties": {
+			"title": "Parc_national_des_Everglades",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [1.041, 45.928]},
+		"properties": {
+			"title": "Massacre_d'Oradour-sur-Glane",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [14.3475, 40.8058]},
+		"properties": {
+			"title": "Herculanum",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [24.2864, 41.0131]},
+		"properties": {
+			"title": "Philippes",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [11.592, 48.1304]},
+		"properties": {
+			"title": "Putsch_de_la_Brasserie",
+			"content_type": "Article_de_qualité",
+			"geo_type": "event"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [6.86444, 45.8325]},
+		"properties": {
+			"title": "Sommets_des_Alpes_de_plus_de_4_000_mètres",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-73.995, 40.73]},
+		"properties": {
+			"title": "Université_de_New_York",
+			"content_type": "Article_de_qualité",
+			"geo_type": "edu"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [3.4125, 50.1258]},
+		"properties": {
+			"title": "Caudry",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-115.85, 50.2167]},
+		"properties": {
+			"title": "Columbia_(fleuve)",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [22.5192, 40.76]},
+		"properties": {
+			"title": "Pella",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-86.15, 37.18]},
+		"properties": {
+			"title": "Parc_national_de_Mammoth_Cave",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-155.468, 19.8207]},
+		"properties": {
+			"title": "Mauna_Kea",
+			"content_type": "Article_de_qualité",
+			"geo_type": "mountain"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-114.0, 48.8]},
+		"properties": {
+			"title": "Parc_national_de_Glacier",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-121.76, 46.8528]},
+		"properties": {
+			"title": "Parc_national_du_mont_Rainier",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-121.2, 48.7]},
+		"properties": {
+			"title": "Parc_national_des_North_Cascades",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-155.608, 19.475]},
+		"properties": {
+			"title": "Mauna_Loa",
+			"content_type": "Article_de_qualité",
+			"geo_type": "mountain"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [17.75, 21.25]},
+		"properties": {
+			"title": "Massif_du_Tibesti",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [5.20083, 43.9119]},
+		"properties": {
+			"title": "Gordes",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [4.8075, 43.9508]},
+		"properties": {
+			"title": "Palais_des_papes_d'Avignon",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [25.5301, 40.5008]},
+		"properties": {
+			"title": "Sanctuaire_des_Grands_Dieux_de_Samothrace",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [20.7336, 39.0083]},
+		"properties": {
+			"title": "Nicopolis_d'Épire",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-4.75639, 48.0406]},
+		"properties": {
+			"title": "Phare_de_la_Vieille",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [5.37135, 43.2839]},
+		"properties": {
+			"title": "Basilique_Notre-Dame-de-la-Garde",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [137.16, -4.07888]},
+		"properties": {
+			"title": "Puncak_Jaya",
+			"content_type": "Article_de_qualité",
+			"geo_type": "mountain"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-2.71804, 47.9394]},
+		"properties": {
+			"title": "Jean_Robic",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [1.76556, 45.2672]},
+		"properties": {
+			"title": "Massacre_de_Tulle",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [2.53611, 48.9192]},
+		"properties": {
+			"title": "Livry-Gargan",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [2.28403, 48.9303]},
+		"properties": {
+			"title": "Ligne_1_du_tramway_d'Île-de-France",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [2.22516, 48.9146]},
+		"properties": {
+			"title": "Ligne_2_du_tramway_d'Île-de-France",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [2.27116, 48.8381]},
+		"properties": {
+			"title": "Ligne_3a_du_tramway_d'Île-de-France",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [7.22528, 43.8617]},
+		"properties": {
+			"title": "Levens",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-1.69597, 48.1056]},
+		"properties": {
+			"title": "Roazhon_Park",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [2.16491, 41.3917]},
+		"properties": {
+			"title": "Casa_Batlló",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [4.53868, 49.8415]},
+		"properties": {
+			"title": "Rimogne",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [20.7878, 39.5467]},
+		"properties": {
+			"title": "Dodone",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-74.072, 11.1008]},
+		"properties": {
+			"title": "Santamartamys_rufodorsalis",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-121.49, 46.206]},
+		"properties": {
+			"title": "Mont_Adams",
+			"content_type": "Article_de_qualité",
+			"geo_type": "mountain"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-1.27361, 53.8361]},
+		"properties": {
+			"title": "Bataille_de_Towton",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [72.5, 38.5]},
+		"properties": {
+			"title": "Pamir",
+			"content_type": "Article_de_qualité",
+			"geo_type": "mountain"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [37.3181, -0.156111]},
+		"properties": {
+			"title": "Mont_Kenya",
+			"content_type": "Article_de_qualité",
+			"geo_type": "mountain"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [2.23263, 49.1049]},
+		"properties": {
+			"title": "L'Isle-Adam",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [1.22417, 47.1414]},
+		"properties": {
+			"title": "Villeloin-Coulangé",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-121.769, 44.1033]},
+		"properties": {
+			"title": "Three_Sisters_(Oregon)",
+			"content_type": "Article_de_qualité",
+			"geo_type": "mountain"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-20.6031, 63.3031]},
+		"properties": {
+			"title": "Surtsey",
+			"content_type": "Article_de_qualité",
+			"geo_type": "isle"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [5.88963, 45.8117]},
+		"properties": {
+			"title": "Abbaye_d'Hautecombe",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [18.0915, 59.3279]},
+		"properties": {
+			"title": "Vasa",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [2.49626, 48.9319]},
+		"properties": {
+			"title": "Ligne_4_du_tramway_d'Île-de-France",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [9.22028, 36.4236]},
+		"properties": {
+			"title": "Dougga",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-1.68177, 48.1118]},
+		"properties": {
+			"title": "Basilique_Saint-Sauveur_de_Rennes",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-1.03583, 47.5617]},
+		"properties": {
+			"title": "Candé",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [24.2839, 37.7014]},
+		"properties": {
+			"title": "Britannic",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-69.817, 54.067]},
+		"properties": {
+			"title": "Réservoir_de_Caniapiscau",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [1.9461, 50.3403]},
+		"properties": {
+			"title": "Mouriez",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [2.11292, 48.8187]},
+		"properties": {
+			"title": "Hameau_de_la_Reine",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [148.194, -36.7961]},
+		"properties": {
+			"title": "Murray_(fleuve)",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [2.35183, 48.8566]},
+		"properties": {
+			"title": "Paris",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-122.187, 46.2003]},
+		"properties": {
+			"title": "Éruption_du_mont_Saint_Helens_en_1980",
+			"content_type": "Article_de_qualité",
+			"geo_type": "event"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-155.287, 19.421]},
+		"properties": {
+			"title": "Kīlauea",
+			"content_type": "Article_de_qualité",
+			"geo_type": "mountain"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [21.4283, 38.3683]},
+		"properties": {
+			"title": "Siège_de_Missolonghi",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [13.4131, 52.5219]},
+		"properties": {
+			"title": "Alexanderplatz",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [24.6293, 35.3099]},
+		"properties": {
+			"title": "Monastère_d'Arkadi",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [21.6878, 36.9358]},
+		"properties": {
+			"title": "Bataille_de_Navarin",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [0.7741, 45.8237]},
+		"properties": {
+			"title": "Astroblème_de_Rochechouart-Chassenon",
+			"content_type": "Article_de_qualité",
+			"geo_type": "scale:100000"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [35.0097, 31.9774]},
+		"properties": {
+			"title": "Massacre_de_Qibya",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-60.7638, 5.14104]},
+		"properties": {
+			"title": "Mont_Roraima",
+			"content_type": "Article_de_qualité",
+			"geo_type": "mountain"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-1.67, 48.1142]},
+		"properties": {
+			"title": "Parc_du_Thabor",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [2.68667, 49.1475]},
+		"properties": {
+			"title": "Abbaye_de_Chaalis",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [7.73578, 48.5447]},
+		"properties": {
+			"title": "Tramway_de_Strasbourg",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [8.75702, 36.5589]},
+		"properties": {
+			"title": "Bulla_Regia",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [2.72222, 48.0275]},
+		"properties": {
+			"title": "Canal_d'Orléans",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [10.1042, 35.6814]},
+		"properties": {
+			"title": "Grande_Mosquée_de_Kairouan",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-73.8844, 40.8608]},
+		"properties": {
+			"title": "Université_Fordham",
+			"content_type": "Article_de_qualité",
+			"geo_type": "edu"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [32.05, 54.7833]},
+		"properties": {
+			"title": "Bataille_de_Smolensk_(1943)",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-0.191944, 48.8928]},
+		"properties": {
+			"title": "Poche_de_Falaise",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-79.875, 32.7524]},
+		"properties": {
+			"title": "Bataille_de_Fort_Sumter",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [10.1659, 36.7975]},
+		"properties": {
+			"title": "Tunis",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-65.0333, 45.6167]},
+		"properties": {
+			"title": "Parc_national_de_Fundy",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [38.9733, 14.0189]},
+		"properties": {
+			"title": "Bataille_d'Adoua",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [3.13903, 50.6054]},
+		"properties": {
+			"title": "Ligne_1_du_métro_de_Lille_Métropole",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [3.01375, 50.6446]},
+		"properties": {
+			"title": "Ligne_2_du_métro_de_Lille_Métropole",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [22.3667, 37.0806]},
+		"properties": {
+			"title": "Mistra",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-122.406, 37.7976]},
+		"properties": {
+			"title": "Jack_Kerouac",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-109.543, 44.1092]},
+		"properties": {
+			"title": "Forêt_nationale_de_Shoshone",
+			"content_type": "Article_de_qualité",
+			"geo_type": "forest"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-3.38972, 56.0008]},
+		"properties": {
+			"title": "Pont_du_Forth",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-1.1, 50.767]},
+		"properties": {
+			"title": "Mary_Rose",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [6.4975, 47.6836]},
+		"properties": {
+			"title": "Lure",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [2.50892, 49.1666]},
+		"properties": {
+			"title": "Forêt_de_Chantilly",
+			"content_type": "Article_de_qualité",
+			"geo_type": "forest"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [10.7069, 35.2964]},
+		"properties": {
+			"title": "Amphithéâtre_d'El_Jem",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [5.36554, 43.2905]},
+		"properties": {
+			"title": "Abbaye_Saint-Victor_de_Marseille",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [5.35611, 48.485]},
+		"properties": {
+			"title": "Laboratoire_de_Bure",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [6.08389, 50.7756]},
+		"properties": {
+			"title": "Palais_d'Aix-la-Chapelle",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-51.5, -69.0]},
+		"properties": {
+			"title": "Expédition_Endurance",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-0.33236, 49.1104]},
+		"properties": {
+			"title": "Opération_Spring",
+			"content_type": "Article_de_qualité",
+			"geo_type": "event"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [155.267, -72.25]},
+		"properties": {
+			"title": "Expédition_Nimrod",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [40.7272, 34.7474]},
+		"properties": {
+			"title": "Synagogue_de_Doura_Europos",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [31.2163, 29.8711]},
+		"properties": {
+			"title": "Complexe_funéraire_de_Djéser",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [2.10747, 48.8152]},
+		"properties": {
+			"title": "Pavillon_français",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [2.209, 48.713]},
+		"properties": {
+			"title": "École_polytechnique_(France)",
+			"content_type": "Article_de_qualité",
+			"geo_type": "edu"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-16.7008, 12.5378]},
+		"properties": {
+			"title": "Karabane",
+			"content_type": "Article_de_qualité",
+			"geo_type": "isle"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [6.02086, 47.2406]},
+		"properties": {
+			"title": "Synagogue_de_Besançon",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [5.27056, 47.4706]},
+		"properties": {
+			"title": "Bèze_(rivière)",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [24.87, 60.16]},
+		"properties": {
+			"title": "Lauttasaari",
+			"content_type": "Article_de_qualité",
+			"geo_type": "isle"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-6.0056, 37.4058]},
+		"properties": {
+			"title": "Exposition_universelle_de_1992",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [2.01825, 48.7477]},
+		"properties": {
+			"title": "Port-Royal_des_Champs",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [118.59, 47.7303]},
+		"properties": {
+			"title": "Bataille_de_Khalkhin_Gol",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-65.2931, 44.3861]},
+		"properties": {
+			"title": "Parc_national_de_Kejimkujik",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [2.92361, 45.3844]},
+		"properties": {
+			"title": "Réserve_naturelle_nationale_des_sagnes_de_La_Godivelle",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [22.3833, 37.5167]},
+		"properties": {
+			"title": "Siège_de_Tripolizza",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [12.6667, 61.5833]},
+		"properties": {
+			"title": "Parc_national_de_Fulufjället",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [10.315, 36.8561]},
+		"properties": {
+			"title": "Site_archéologique_de_Carthage",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [24.1132, 56.9516]},
+		"properties": {
+			"title": "Monument_de_la_Liberté",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-123.005, 49.8506]},
+		"properties": {
+			"title": "Mont_Garibaldi",
+			"content_type": "Article_de_qualité",
+			"geo_type": "mountain"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-3.37028, 47.7292]},
+		"properties": {
+			"title": "Base_sous-marine_de_Lorient",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-6.33, 53.083]},
+		"properties": {
+			"title": "Montagnes_de_Wicklow",
+			"content_type": "Article_de_qualité",
+			"geo_type": "mountain"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [3.06936, 50.6379]},
+		"properties": {
+			"title": "École_des_arts_industriels_et_des_mines",
+			"content_type": "Article_de_qualité",
+			"geo_type": "edu"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [7.42056, 43.7347]},
+		"properties": {
+			"title": "Grand_Prix_automobile_de_Monaco_2008",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [34.9808, 31.8384]},
+		"properties": {
+			"title": "Bataille_de_Latroun_(1948)",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [2.37228, 51.0376]},
+		"properties": {
+			"title": "Duchesse_Anne_(trois-mâts_carré)",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-90.583, -68.83]},
+		"properties": {
+			"title": "Antarctique",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-0.33236, 49.1104]},
+		"properties": {
+			"title": "Bataille_de_la_crête_de_Verrières",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-123.291, 50.1203]},
+		"properties": {
+			"title": "Mont_Cayley",
+			"content_type": "Article_de_qualité",
+			"geo_type": "mountain"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-0.65, 49.0833]},
+		"properties": {
+			"title": "Opération_Perch",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [69.733, 34.6]},
+		"properties": {
+			"title": "Embuscade_d'Uzbin",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [166.912, -0.534396]},
+		"properties": {
+			"title": "Attaques_allemandes_sur_Nauru",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [1.90417, 47.8967]},
+		"properties": {
+			"title": "Pont_George-V",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-77.0256, 38.8964]},
+		"properties": {
+			"title": "Assassinat_d'Abraham_Lincoln",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-76.79, 40.8903]},
+		"properties": {
+			"title": "Joseph_Priestley_House",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-49.9458, 41.7319]},
+		"properties": {
+			"title": "Naufrage_du_Titanic",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [132.883, 78.8167]},
+		"properties": {
+			"title": "Expédition_Fram",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-2.73333, 51.3]},
+		"properties": {
+			"title": "Collines_de_Mendip",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-117.656, 47.615]},
+		"properties": {
+			"title": "Accident_sur_la_base_de_Fairchild_en_1994",
+			"content_type": "Article_de_qualité",
+			"geo_type": "event"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [5.98163, 47.2076]},
+		"properties": {
+			"title": "Fort_de_Planoise",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [10.85, 33.8]},
+		"properties": {
+			"title": "Djerba",
+			"content_type": "Article_de_qualité",
+			"geo_type": "isle"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [6.9167, 43.6667]},
+		"properties": {
+			"title": "Grasse",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [6.86281, 47.6379]},
+		"properties": {
+			"title": "Belfort",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [6.133, 45.916]},
+		"properties": {
+			"title": "Annecy",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [18.683, 68.317]},
+		"properties": {
+			"title": "Parc_national_d'Abisko",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [17.7, 67.2833]},
+		"properties": {
+			"title": "Parc_national_de_Sarek",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [16.7251, 67.4116]},
+		"properties": {
+			"title": "Parc_national_de_Padjelanta",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-121.8, 44.6743]},
+		"properties": {
+			"title": "Mont_Jefferson_(Oregon)",
+			"content_type": "Article_de_qualité",
+			"geo_type": "mountain"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [87.7832, 50.0867]},
+		"properties": {
+			"title": "Sittelle_de_Chine",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-68.469, 48.5174]},
+		"properties": {
+			"title": "Phare_de_Pointe-au-Père",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-49.9469, 41.7325]},
+		"properties": {
+			"title": "Épave_du_Titanic",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [1.1833, 52.3333]},
+		"properties": {
+			"title": "Trésor_de_Hoxne",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-119.0, 37.883]},
+		"properties": {
+			"title": "Cratères_de_Mono-Inyo",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [103.857, 1.33694]},
+		"properties": {
+			"title": "Meurtres_rituels_de_Toa_Payoh",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [0.225611, 47.9377]},
+		"properties": {
+			"title": "Grand_Prix_automobile_de_France_1906",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [13.2167, 56.0167]},
+		"properties": {
+			"title": "Parc_national_de_Söderåsen",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [10.3313, 36.8578]},
+		"properties": {
+			"title": "Mosaïque_des_chevaux_de_Carthage",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [2.10805, 48.816]},
+		"properties": {
+			"title": "Théâtre_de_la_Reine",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-3.36667, 47.75]},
+		"properties": {
+			"title": "Siège_de_Lorient",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [11.0167, 58.8333]},
+		"properties": {
+			"title": "Parc_national_de_Kosterhavet",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [16.7736, 60.1933]},
+		"properties": {
+			"title": "Parc_national_de_Färnebofjärden",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [14.7556, 61.7639]},
+		"properties": {
+			"title": "Parc_national_de_Hamra",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [18.4972, 63.1111]},
+		"properties": {
+			"title": "Parc_national_de_Skuleskogen",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [6.61422, 47.6767]},
+		"properties": {
+			"title": "Puits_Arthur-de-Buyer",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [6.65349, 47.7069]},
+		"properties": {
+			"title": "Puits_des_houillères_de_Ronchamp",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [2.60111, 42.4811]},
+		"properties": {
+			"title": "Caixa_de_Rotllan",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [0.23, 49.1461]},
+		"properties": {
+			"title": "Jardin_archéologique_de_l'hôpital_de_Lisieux",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [3.77638, 50.2982]},
+		"properties": {
+			"title": "Réserve_naturelle_régionale_de_la_carrière_des_Nerviens",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [15.3178, 65.9231]},
+		"properties": {
+			"title": "Réserve_naturelle_de_Vindelfjällen",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [8.449, 39.962]},
+		"properties": {
+			"title": "Géants_de_Mont-Prama",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [2.10967, 48.8156]},
+		"properties": {
+			"title": "Château_du_Petit_Trianon",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [5.0478, 44.0516]},
+		"properties": {
+			"title": "Hôtel-Dieu_de_Carpentras",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [4.87296, 44.0136]},
+		"properties": {
+			"title": "Palais_des_papes_de_Sorgues",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [101.0, 35.0]},
+		"properties": {
+			"title": "Sittelle_de_Przewalski",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [6.94444, 51.2272]},
+		"properties": {
+			"title": "Homme_de_Néandertal",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [128.067, 30.367]},
+		"properties": {
+			"title": "Opération_Ten-Gō",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [44.42, 32.542]},
+		"properties": {
+			"title": "Babylone",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [5.0, 36.6]},
+		"properties": {
+			"title": "Kabylie",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [31.909, 26.1751]},
+		"properties": {
+			"title": "Mystères_d'Osiris",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-81.6317, 28.1333]},
+		"properties": {
+			"title": "Floride",
+			"content_type": "Article_de_qualité",
+			"geo_type": "adm1st"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [1.44396, 43.6045]},
+		"properties": {
+			"title": "Toulouse",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-100.0, 44.5]},
+		"properties": {
+			"title": "Dakota_du_Sud",
+			"content_type": "Article_de_qualité",
+			"geo_type": "adm1st"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [0.69456, 47.395]},
+		"properties": {
+			"title": "Enceinte_gallo-romaine_de_Tours",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [2.4967, 42.4533]},
+		"properties": {
+			"title": "Ermitage_Saint-Guillem_de_Combret",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [6.62974, 47.7029]},
+		"properties": {
+			"title": "Puits_Sainte-Marie",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [6.64825, 47.6898]},
+		"properties": {
+			"title": "Puits_Notre-Dame",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [65.787, 36.7]},
+		"properties": {
+			"title": "Tillia_tepe",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [0.688, 47.3934]},
+		"properties": {
+			"title": "Temple_gallo-romain_de_Tours",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-123.498, 47.9694]},
+		"properties": {
+			"title": "Parc_national_Olympique",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-110.501, 44.6147]},
+		"properties": {
+			"title": "Parc_national_de_Yellowstone",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [135.84, 34.6892]},
+		"properties": {
+			"title": "Tōdai-ji",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [5.71, 45.2344]},
+		"properties": {
+			"title": "Néron_(Isère)",
+			"content_type": "Article_de_qualité",
+			"geo_type": "mountain"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [16.5, 45.0]},
+		"properties": {
+			"title": "Alpes_dinariques",
+			"content_type": "Article_de_qualité",
+			"geo_type": "mountain"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [0.695904, 47.3954]},
+		"properties": {
+			"title": "Amphithéâtre_de_Tours",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [2.17444, 41.4034]},
+		"properties": {
+			"title": "Sagrada_Família",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [10.1344, 36.8093]},
+		"properties": {
+			"title": "Musée_national_du_Bardo_(Tunisie)",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [37.3528, -3.07617]},
+		"properties": {
+			"title": "Kilimandjaro",
+			"content_type": "Article_de_qualité",
+			"geo_type": "mountain"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [105.423, -6.102]},
+		"properties": {
+			"title": "Krakatoa",
+			"content_type": "Article_de_qualité",
+			"geo_type": "isle"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-1.57917, 43.3136]},
+		"properties": {
+			"title": "Sare",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-1.475, 43.4936]},
+		"properties": {
+			"title": "Bayonne",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [32.7266, 25.9]},
+		"properties": {
+			"title": "Seth",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-74.0444, 40.6892]},
+		"properties": {
+			"title": "Statue_de_la_Liberté",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [0.935179, 47.3353]},
+		"properties": {
+			"title": "Aqueduc_de_Fontenay",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [2.5833, 42.6383]},
+		"properties": {
+			"title": "Église_Saint-Nazaire_de_Barbadell",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-1.53667, 47.1978]},
+		"properties": {
+			"title": "Hôpital_Saint-Jacques_(Nantes)",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [12.4768, 41.8986]},
+		"properties": {
+			"title": "Panthéon_(Rome)",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [1.09611, 47.1864]},
+		"properties": {
+			"title": "Genillé",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-118.25, 34.05]},
+		"properties": {
+			"title": "Los_Angeles",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [2.3265, 48.867]},
+		"properties": {
+			"title": "France",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-3.86667, 40.4667]},
+		"properties": {
+			"title": "Bataille_de_Majadahonda",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [0.688662, 47.392]},
+		"properties": {
+			"title": "Thermes_gallo-romains_de_Tours",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [3.02083, 44.0872]},
+		"properties": {
+			"title": "Viaduc_de_Millau",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-2.47889, 47.2781]},
+		"properties": {
+			"title": "Batz-sur-Mer",
+			"content_type": "Article_de_qualité",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [11.1244, 35.5319]},
+		"properties": {
+			"title": "Épave_de_Mahdia",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-1.72972, 43.2958]},
+		"properties": {
+			"title": "Frontière_entre_l'Espagne_et_la_France",
+			"content_type": "Article_de_qualité",
+			"geo_type": ""
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [0.5685, 47.3976]},
+		"properties": {
+			"title": "Aqueduc_de_Luynes",
+			"content_type": "Article_de_qualité",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-1.01694, 52.0786]},
+		"properties": {
+			"title": "Grand_Prix_automobile_de_Grande-Bretagne_1995",
+			"content_type": "Article_de_qualité",
+			"geo_type": "event"
+			}
+		},
+		{ "type": "Feature",
 		"geometry": {"type": "Point", "coordinates": [4.9, 52.3833]},
 		"properties": {
 			"title": "Amsterdam",
@@ -86,14 +2542,6 @@
 			"title": "Cherbourg-Octeville",
 			"content_type": "Bon_article",
 			"geo_type": "city"
-			}
-		},
-		{ "type": "Feature",
-		"geometry": {"type": "Point", "coordinates": [-151.007, 63.0695]},
-		"properties": {
-			"title": "Mont_McKinley",
-			"content_type": "Bon_article",
-			"geo_type": "mountain"
 			}
 		},
 		{ "type": "Feature",
@@ -1153,7 +3601,7 @@
 			}
 		},
 		{ "type": "Feature",
-		"geometry": {"type": "Point", "coordinates": [-6.82028, 34.0328]},
+		"geometry": {"type": "Point", "coordinates": [-6.83583, 34.0294]},
 		"properties": {
 			"title": "Salé",
 			"content_type": "Bon_article",
@@ -1641,6 +4089,14 @@
 			}
 		},
 		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-2.74424, 47.6463]},
+		"properties": {
+			"title": "Université_de_Bretagne-Sud",
+			"content_type": "Bon_article",
+			"geo_type": "edu"
+			}
+		},
+		{ "type": "Feature",
 		"geometry": {"type": "Point", "coordinates": [3.30298, 48.5556]},
 		"properties": {
 			"title": "Gare_de_Provins",
@@ -2017,7 +4473,7 @@
 			}
 		},
 		{ "type": "Feature",
-		"geometry": {"type": "Point", "coordinates": [5.96194, 48.9558]},
+		"geometry": {"type": "Point", "coordinates": [5.96309, 48.9557]},
 		"properties": {
 			"title": "Abbaye_de_Sainte-Marie-au-Bois",
 			"content_type": "Bon_article",
@@ -4001,11 +6457,35 @@
 			}
 		},
 		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-3.15667, 47.8342]},
+		"properties": {
+			"title": "Languidic",
+			"content_type": "Bon_article",
+			"geo_type": "city"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [88.8312, 27.3864]},
+		"properties": {
+			"title": "Nathu_La",
+			"content_type": "Bon_article",
+			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
 		"geometry": {"type": "Point", "coordinates": [1.2037, 47.1555]},
 		"properties": {
 			"title": "Église_Saint-Jean-Baptiste_de_Montrésor",
 			"content_type": "Bon_article",
 			"geo_type": "landmark"
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-151.007, 63.0695]},
+		"properties": {
+			"title": "Denali",
+			"content_type": "Bon_article",
+			"geo_type": "mountain"
 			}
 		}
 	]
