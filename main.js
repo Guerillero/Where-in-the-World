@@ -23,7 +23,7 @@
   // Now that the basemap is done, add data
   
   function articleType (tpe){
-    if (tpe === "Wikipedia:Exzellent" || tpe === "Featured_articles" || tpe === "Wikipedia:Artículos_destacados" || tpe === "Articles_de_qualité"){
+    if (tpe === "Wikipedia:Exzellent" || tpe === "Featured_articles" || tpe === "Wikipedia:Artículos_destacados" || tpe === "Article_de_qualité"){
       return "Featured Article";
     } else {
       return "Good Article";
