@@ -7,7 +7,7 @@ JOIN geo_tags
 ON gt_page_id = page_id
 JOIN categorylinks
 ON cl_from = page_id
-WHERE cl_to = "Articles_de_qualité"
+WHERE cl_to = "Article_de_qualité"
 OR cl_to = "Bon_article"
 AND gt_globe = 'earth'
 AND page_namespace = 0
